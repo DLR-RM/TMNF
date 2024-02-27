@@ -1,0 +1,9 @@
+numpy
+matplotlib
+jupyterlab
+tqdm
+pyyaml
+pandas
+normflows
+boltzgen @ git+https://github.com/VincentStimper/boltzmann-generators.git
+residual-flows @ git+https://github.com/VincentStimper/residual-flows.git

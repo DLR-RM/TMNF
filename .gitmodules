@@ -1,0 +1,6 @@
+[submodule "mmdetection"]
+	path = mmdetection
+	url = https://github.com/open-mmlab/mmdetection.git
+[submodule "resampled-base-flows"]
+	path = dependencies/resampled-base-flows
+    url = https://github.com/JianxiangFENG/resampled-base-flows.git
